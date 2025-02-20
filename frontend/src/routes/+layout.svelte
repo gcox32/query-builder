@@ -13,9 +13,7 @@
 	</main>
 
 	<footer>
-		<p>
-			visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to learn about SvelteKit
-		</p>
+		<p></p>
 	</footer>
 </div>
 
@@ -35,6 +33,7 @@
 		max-width: 64rem;
 		margin: 0 auto;
 		box-sizing: border-box;
+		margin-top: 100px;
 	}
 
 	footer {
